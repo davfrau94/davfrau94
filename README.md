@@ -1,15 +1,5 @@
-### Hi there, I'm Davide 👋🏻
+### Hi, I'm Davide.
 
-I'm a bartender shifting into tech, currently studying **Data Science, Analytics and AI Agents** through self-learning and the [Start2Impact University](https://www.start2impact.it/) platform.  
-I balance a demanding work schedule with focused daily coding sessions, driven by curiosity and long-term goals.
+I spent over a decade in hospitality (managing inventory, costs, and teams) and somewhere along the way I realized I was more interested in the numbers behind the operations than the operations themselves.
 
-🔧 I enjoy building clean, responsive websites and documenting everything I learn using **Obsidian**.
-
-💡 I'm especially interested in:
-- Modern Web technologies
-- Consistent, real-world learning through projects
-- Personal Knowledge Management Systems
-- Books
-
-Outside tech, I stay active with **calisthenics** and **running**, and I aim to live a mindful, balanced life. 🧘🏻
- 
+That curiosity led me into tech: first web development (HTML, CSS, JavaScript), now Data Analysis. I'm currently studying Data Science, Analytics and AI at Start2Impact University, building projects that connect my hospitality background with tools like Excel, SQL, Python and Data Visualization.
